@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73052" started-at="2018-07-13T11:55:07Z" finished-at="2018-07-13T11:56:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73052" started-at="2018-07-13T11:55:07Z" finished-at="2018-07-13T11:56:20Z">
+      <class name="ikman_Ads.Ikman_Assignment">
+        <test-method status="PASS" signature="setUpBrowser()[pri:0, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="setUpBrowser" is-config="true" duration-ms="19169" started-at="2018-07-13T11:55:07Z" finished-at="2018-07-13T11:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="openPropertyPage()[pri:0, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="openPropertyPage" duration-ms="3252" started-at="2018-07-13T11:55:27Z" finished-at="2018-07-13T11:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPropertyPage -->
+        <test-method status="PASS" signature="openHousesPage()[pri:1, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="openHousesPage" duration-ms="4556" started-at="2018-07-13T11:55:30Z" finished-at="2018-07-13T11:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHousesPage -->
+        <test-method status="PASS" signature="selectColombo()[pri:2, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="selectColombo" duration-ms="2263" started-at="2018-07-13T11:55:34Z" finished-at="2018-07-13T11:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectColombo -->
+        <test-method status="PASS" signature="selectPrice()[pri:3, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="selectPrice" duration-ms="4919" started-at="2018-07-13T11:55:37Z" finished-at="2018-07-13T11:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPrice -->
+        <test-method status="PASS" signature="selectBeds()[pri:4, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="selectBeds" duration-ms="5776" started-at="2018-07-13T11:55:42Z" finished-at="2018-07-13T11:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBeds -->
+        <test-method status="PASS" signature="listAds()[pri:5, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="listAds" duration-ms="32429" started-at="2018-07-13T11:55:47Z" finished-at="2018-07-13T11:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listAds -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:ikman_Ads.Ikman_Assignment@2833cc44]" name="closeBrowser" is-config="true" duration-ms="581" started-at="2018-07-13T11:56:20Z" finished-at="2018-07-13T11:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ikman_Ads.Ikman_Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
